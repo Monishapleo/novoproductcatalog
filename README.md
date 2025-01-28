@@ -14,7 +14,7 @@ This is a RESTful API for managing products. The API allows you to perform CRUD 
 
 ### Installation
 
-1. Clone the repository
+1. Clone the repository: https://github.com/Monishapleo/novoproductcatalog.git
 2. Configure your MySQL database and set up the `application.properties` with your credentials:
     ```properties
     spring.datasource.url=jdbc:mysql://localhost:3306/productdb
